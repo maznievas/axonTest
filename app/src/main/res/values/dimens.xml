@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_image_side">100dp</dimen>
+    <dimen name="normal_text_size">20dp</dimen>
+    <dimen name="space_betwen_items">7dp</dimen>
+    <dimen name="text_view_padding">5dp</dimen>
+</resources>
